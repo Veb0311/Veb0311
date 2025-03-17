@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patel</h1>
 <h3 align="center">I am a passionate Computer Engineering student specializing in Data Analytics with a keen interest in AI, software development, and automation. My goal is to create innovative solutions that enhance decision-making and solve real-world challenges through technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veb0311&label=Profile%20views&color=0e75b6&style=flat" alt="veb0311" /> </p>
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **www.linkedin.com/in/vaibhav-patel-86b72a355**
