@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vaibhav Patel and I'm a Student from GTU. I am passionate about AI, software development, and automation.</h2>
+<h2 align="left">Hi 👋! My name is Vaibhav Patel.</h2>
 
 ###
 
